@@ -1,7 +1,7 @@
 public class reverseSb {
     public static void main(String[] args) {
         String s ="vishal";
-        StringBuilder str = new StringBuilder(s);
+        // StringBuilder str = new StringBuilder(s);
 
         char[] arr = s.toCharArray(); // string ko phele char array me change karna hoga fir swap kar sakte h
         int i = 0;
